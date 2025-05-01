@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serra150
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Automation / Backend
+- 🌱 I’m currently learning tsc
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Ich spreche Deutsch
 
